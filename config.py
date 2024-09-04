@@ -1,12 +1,12 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-     "https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_list.txt",
-    # "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-    # "酒店组播",
-    "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
-    "http://175.178.251.183:6689/channel.txt",
-    "http://120.79.4.185/new/mdlive.txt",
+    #"https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_list.txt",
+    "https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/酒店优选.txt",
+    "https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_list.txt",
+    "https://raw.githubusercontent.com/GOgo8Go/Naw2Lip/main/resul/news",
+    #"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    #"酒店组播",
     # "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     # "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
     # "https://live.zhoujie218.top/tv/iptv6.txt",
@@ -25,9 +25,13 @@ source_urls = [
     # "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     # "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
-    "https://gitee.com/ds360/ds/raw/master/ZB/lunbo.jpg",
+    #"https://gitee.com/ds360/ds/raw/master/ZB/lunbo.jpg",
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
+#以下为禁用
+    #"https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+    #"http://175.178.251.183:6689/channel.txt",
+    #"http://120.79.4.185/new/mdlive.txt",
 ]
 # 以下列表用于排除需要保存的url关键字ip或者域名
 url_blacklist = [
@@ -51,7 +55,6 @@ url_blacklist = [
     "p2p://",
     "P2p://",
     "udp://"
-    "/udp/"
 ]
 
 announcements = [

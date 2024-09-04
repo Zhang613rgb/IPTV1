@@ -29,17 +29,17 @@ source_urls = [
     "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 ]
-
+# 以下列表用于排除需要保存的url关键字ip或者域名
 url_blacklist = [
     "epg.pw/stream/",
     "103.40.13.71:12390",
-    "[2409:8087:1a01:df::4077]/PLTV/",
+    # "[2409:8087:1a01:df::4077]/PLTV/",
     "8.210.140.75:68",
     "154.12.50.54",
     "yinhe.live_hls.zte.com",
     "8.137.59.151",
     # "171.110.63.44",
-    "[2409:8087:7000:20:1000::22]:6060",
+    # "[2409:8087:7000:20:1000::22]:6060",
     "histar.zapi.us.kg",
     "www.tfiplaytv.vip",
     "dp.sxtv.top",

@@ -51,6 +51,7 @@ url_blacklist = [
     "p2p://",
     "P2p://",
     "udp://"
+    "/udp/"
 ]
 
 announcements = [

@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    # "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+     "https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_list.txt",
     # "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "酒店组播",
     "https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",

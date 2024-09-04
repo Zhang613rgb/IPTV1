@@ -38,6 +38,7 @@ url_blacklist = [
     "154.12.50.54",
     "yinhe.live_hls.zte.com",
     "8.137.59.151",
+    "171.110.63.44",
     # "[2409:8087:7000:20:1000::22]:6060",
     "histar.zapi.us.kg",
     "www.tfiplaytv.vip",

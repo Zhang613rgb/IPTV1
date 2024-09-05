@@ -2,8 +2,9 @@ name: Daily Update
 
 on:
   schedule:
-  
-    - cron: '0 1/2 * * ?'
+
+    - cron: '56 5,20 * * ?'
+    #- cron: '0 1/2 * * ?'
 
   workflow_dispatch:
 

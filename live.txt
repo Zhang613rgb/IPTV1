@@ -22355,7 +22355,7 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&play
 欢笑剧场,http://222.64.56.17:6666/udp/239.45.3.196:5140$LR•5•IPV4『线路3』
 欢笑剧场,http://180.171.56.119:10000/udp/239.45.3.196:5140$LR•5•IPV4『线路4』
 欢笑剧场,http://116.226.8.253:8881/udp/239.45.3.196:5140$LR•5•IPV4『线路5』
-都市剧场,http://171.106.217.4:8181/tsfile/live/1075_1.m3u8?$LR•9•IPV4『线路1』
+都市剧场,http://171.106.217.3:8181/tsfile/live/1075_1.m3u8?$LR•9•IPV4『线路1』
 都市剧场,http://59.32.97.60:9901/tsfile/live/1086_1.m3u8$LR•9•IPV4『线路2』
 都市剧场,http://1.180.2.93:9901/tsfile/live/1026_1.m3u8$LR•9•IPV4『线路3』
 都市剧场,http://171.106.217.3:8181/tsfile/live/1075_1.m3u8$LR•9•IPV4『线路4』
@@ -22482,7 +22482,7 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&play
 中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$LR•2•IPV6『线路1』
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$LR•2•IPV4『线路2』
 军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$LR•IPV6
-动作电影,http://1.69.75.95:9902/tsfile/live/1029_1.m3u8?$LR•15•IPV4『线路1』
+动作电影,http://1.69.113.112:9902/tsfile/live/1029_1.m3u8?$LR•15•IPV4『线路1』
 动作电影,http://171.110.10.194:8181/tsfile/live/1066_1.m3u8?$LR•15•IPV4『线路2』
 动作电影,http://59.32.97.11:9901/tsfile/live/23039_1.m3u8$LR•15•IPV4『线路3』
 动作电影,http://222.136.68.146:9901/tsfile/live/1002_1.m3u8$LR•15•IPV4『线路4』

@@ -169,7 +169,8 @@ def updateChannelUrlsM3U(channels, template_channels):
                                 channels[category][channel_name],
                                 key=lambda url: (
                                     not is_ipv6(url)
-                                    if config.ip_version_priority == "ipv6"
+                                    # 脚本会根据 config.ip_version_priority 的值动态决定是优先处理 IPv4 还是 IPv6。
+                                    if config.ip_version_priority == "ipv4"
                                     else is_ipv6(url)
                                 ),
                             )

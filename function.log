@@ -1,11 +1,11 @@
-2025-02-11 17:17:27,805 - INFO - url: https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/酒店优选.txt 获取成功，判断为txt格式
-2025-02-11 17:17:27,806 - INFO - url: https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/酒店优选.txt 爬取成功✅，包含频道数：232 包含频道分类: 最后更新时间2024-10-04 11:00, 央视频道, 卫视频道, 影视频道, 其他频道
-2025-02-11 17:17:28,099 - INFO - url: https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_list.txt 获取成功，判断为txt格式
-2025-02-11 17:17:28,111 - INFO - url: https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_list.txt 爬取成功✅，包含频道数：5713 包含频道分类: 更新时间, 央视频道, 卫视频道, 湖南频道, 港澳频道, 其他频道, AKTV
-2025-02-11 17:17:28,252 - INFO - url: https://raw.githubusercontent.com/GOgo8Go/Naw2Lip/main/resul/news 获取成功，判断为txt格式
-2025-02-11 17:17:28,301 - ERROR - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt
-2025-02-11 17:17:28,420 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 获取成功，判断为txt格式
-2025-02-11 17:17:28,421 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 爬取成功✅，包含频道数：313 包含频道分类: 综合, 小地方, IPV6, CCTV, 卫视, 精品, CCTV-Live, 地方台, 斗鱼电影, 海外(已隐藏), 测试
-2025-02-11 17:17:28,460 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
-2025-02-11 17:17:28,492 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道数：14311 包含频道分类: 更新时间, 🧨2025春晚🧨, 💓专享源🅰️, 💓专享源🅱️, 💓专享央视, 💓专享卫视, 💓港澳台📶, 💓AKTV🚀📶, 💓台湾台📶, 💓电视剧🔁, 💓优质个源, 💓儿童专享, 💓咪咕直播, 🏀SPORTS⚽️, 🍹定制台☕️, 🍹定制P3P☕️, 💓英语频道, 💓4K(Test), 🌐央视频道, 📡卫视频道, 上海频道, 体育频道, 电影频道, 电视剧频道, 明星, 主题片, 港澳台, 国际台, 纪录片, 动画片, 戏曲频道, 综艺频道, 音乐频道, 游戏频道, ☘️湖南频道, ☘️湖北频道, ☘️广东频道, ☘️浙江频道, ☘️山东频道, ☘️江苏频道, ☘️安徽频道, ☘️海南频道, ☘️内蒙频道, ☘️辽宁频道, ☘️陕西频道, ☘️山西频道, ☘️云南频道, ☘️北京频道, ☘️重庆频道, ☘️福建频道, ☘️甘肃频道, ☘️广西频道, ☘️贵州频道, ☘️河北频道, ☘️河南频道, ☘️黑龙江频道, ☘️吉林频道, ☘️江西频道, ☘️宁夏频道, ☘️青海频道, ☘️四川频道, ☘️天津频道, ☘️新疆频道, 解说频道, 春晚, 直播中国, MTV, 收音机频道, ❤️与凤行, ❤️以家人之名
-2025-02-11 17:17:29,127 - INFO - 爬取完成✅，共计频道数：13101
+2025-02-12 10:14:12,449 - INFO - url: https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/酒店优选.txt 获取成功，判断为txt格式
+2025-02-12 10:14:12,450 - INFO - url: https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/酒店优选.txt 爬取成功✅，包含频道数：232 包含频道分类: 最后更新时间2024-10-04 11:00, 央视频道, 卫视频道, 影视频道, 其他频道
+2025-02-12 10:14:12,636 - INFO - url: https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_list.txt 获取成功，判断为txt格式
+2025-02-12 10:14:12,661 - INFO - url: https://raw.githubusercontent.com/mlzlzj/hnyuan/main/iptv_list.txt 爬取成功✅，包含频道数：5713 包含频道分类: 更新时间, 央视频道, 卫视频道, 湖南频道, 港澳频道, 其他频道, AKTV
+2025-02-12 10:14:12,990 - INFO - url: https://raw.githubusercontent.com/GOgo8Go/Naw2Lip/main/resul/news 获取成功，判断为txt格式
+2025-02-12 10:14:13,108 - ERROR - url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt
+2025-02-12 10:14:13,350 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 获取成功，判断为txt格式
+2025-02-12 10:14:13,351 - INFO - url: https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt 爬取成功✅，包含频道数：316 包含频道分类: 综合, 小地方, IPV6, CCTV, 卫视, 精品, CCTV-Live, 地方台, 斗鱼电影, 海外(已隐藏), 测试
+2025-02-12 10:14:13,579 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 获取成功，判断为txt格式
+2025-02-12 10:14:13,625 - INFO - url: https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt 爬取成功✅，包含频道数：19213 包含频道分类: 更新时间, 🧨2025春晚🧨, 💓专享源🅰️, 💓专享源🅱️, 💓专享央视, 💓专享卫视, 💓港澳台📶, 💓AKTV🚀📶, 💓台湾台📶, 💓电视剧🔁, 💓优质个源, 💓儿童专享, 💓咪咕直播, 🏀SPORTS⚽️, 🍹定制台☕️, 🍹定制P3P☕️, 💓英语频道, 💓4K(Test), 🌐央视频道, 📡卫视频道, 上海频道, 体育频道, 电影频道, 电视剧频道, 明星, 主题片, 港澳台, 国际台, 纪录片, 动画片, 戏曲频道, 综艺频道, 音乐频道, 游戏频道, ☘️湖南频道, ☘️湖北频道, ☘️广东频道, ☘️浙江频道, ☘️山东频道, ☘️江苏频道, ☘️安徽频道, ☘️海南频道, ☘️内蒙频道, ☘️辽宁频道, ☘️陕西频道, ☘️山西频道, ☘️云南频道, ☘️北京频道, ☘️重庆频道, ☘️福建频道, ☘️甘肃频道, ☘️广西频道, ☘️贵州频道, ☘️河北频道, ☘️河南频道, ☘️黑龙江频道, ☘️吉林频道, ☘️江西频道, ☘️宁夏频道, ☘️青海频道, ☘️四川频道, ☘️天津频道, ☘️新疆频道, 解说频道, 春晚, 直播中国, MTV, 收音机频道, ❤️与凤行, ❤️以家人之名
+2025-02-12 10:14:14,415 - INFO - 爬取完成✅，共计频道数：17820
